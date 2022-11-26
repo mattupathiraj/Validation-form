@@ -1,0 +1,17 @@
+ body{
+    background: linear-gradient(-90deg, #ffb5b5, #9df9b0, #f8ffae, #b6fff0);
+      background-size: 600% 600%;
+      h1 {
+        color: red;
+      }
+ }
+
+
+
+ App__form {
+	max-width: 700px;
+	padding: 37px 37px;
+	margin: 37px auto;
+	box-shadow: 1px 30px 60px 8px rgba(222, 104, 149, 0.07);
+    
+  }
